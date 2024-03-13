@@ -4,6 +4,10 @@
   margin: 0;
 }
 
+.greeting{
+  margin-top: 1%;
+}
+
 #principal {
   width: 100%;
   display: flex;
